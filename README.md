@@ -1,0 +1,1 @@
+一个简单的django初始项目,带app和jinja2引擎,需要安装jinja2 包含 django部分的models字段,自行选择使用
